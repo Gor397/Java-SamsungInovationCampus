@@ -1,19 +1,13 @@
 import java.util.Scanner;
-
 public class Main {
-//    public static Scanner scanner;
+  Static int maxArray(int[] ar){
+      int max = ar[0];
+      for(int i=0; i < ar.length;i++){
+          if(ar[i] > max){
+              max = ar[i];
+          }
+      }
+      return max;
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        int m = scanner.nextInt();
-
-        int[][] a = new int[n][m];
-        for (int k = 0; k < n * m; ++k) {
-            int i = k / m;
-            int j = k % m;
-            a[i][j] = i * j;
-            System.out.printf("%4d%s", a[i][j], j==m - 1 ? "\n" : "");
-        }
     }
 }
