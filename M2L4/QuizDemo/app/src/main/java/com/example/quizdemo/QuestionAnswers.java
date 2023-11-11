@@ -10,7 +10,7 @@ public class QuestionAnswers {
     public static String choices[][] = {
             { "1", "2", "3", "4" },
             { "1", "2", "3", "4" },
-            { "1", "2", "3", "4" }
+            { "1", "2", "3", "6" }
     };
 
     public static String answers[] = {
