@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable car1
+drawable car2
+drawable car3
+drawable car4
+drawable car5
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id editTextNumber
+id imageView
+id textView
+layout activity_car
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ExplicitIntentDemo
+style Theme.ExplicitIntentDemo
+xml backup_rules
+xml data_extraction_rules
