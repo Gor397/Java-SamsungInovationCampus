@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="corporations">
+        <item>Tesla</item>
+        <item>Amazon</item>
+        <item>Google</item>
+        <item>GazProm</item>
+        <item>Warner Brothers</item>
+        <item>Grzo Group</item>
+        <item>Saudi Aramco</item>
+        <item>Meta Platforms</item>
+    </string-array>
+</resources>
